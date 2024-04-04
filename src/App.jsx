@@ -11,6 +11,7 @@ import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
 import { Contactinfo } from "./components/contactInfo";
+import { ScrollToTop } from "./components/ScrollToTop";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
@@ -23,14 +24,17 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
+
   useEffect(() => {
     setLandingPageData(JsonData);
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }, []);
 
   return (
     <Router>
       <div>
         <Navigation />
+        <ScrollToTop />
         <Routes>
           {" "}
           <Route
