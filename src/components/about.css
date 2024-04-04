@@ -1,4 +1,4 @@
 .paragraph-width {
-  max-width: 800px; /* Adjust this value according to your layout */
+  max-width: 60%; /* Adjust this value according to your layout */
   margin: 0 auto; /* Center the paragraph horizontally */
 }

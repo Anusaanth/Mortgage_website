@@ -47,15 +47,40 @@ export const About = (props) => {
       </div>
       <div>
         <div className="section-title text-center">
-          <h2>yes</h2>
+          <h2>Siva's Journey: From Humble Beginnings to Mortgage Expert</h2>
           <p className="paragraph-width">
-            This is a paragraph under the h2 tagasdfkaksdfbkasdjfkasbjfkabklfbak
-            aksfjksajdjb fkbasdk fbasdk fbkas bfkasb kds n a;skn k;a k kdan kan
-            fkn ;n kj fkl; nafn l;a l;a nfl n adfadsfb k k bkbkfdk abkas bs
-            bksadfbkfbksb fkb kbfksb ksb kabjf ksdb fksadbf k bks bfk
-            bksabfkabfkasb.
+            Siva, born in Eelam in 1964, originally from Vanuiya. At 18, he
+            ventured to Germany, and in his early 20s, he settled in Canada. His
+            career spanned various roles from factory work to owning his own
+            store. However, it was in the early 90s that he discovered his
+            passion for mortgages, leading him to obtain his license. With
+            determination and vision, he founded his own brokerage, which grew
+            to employ over 20 individuals. Along his journey to success, Siva's
+            expertise and knowledge were recognized through numerous prestigious
+            awards.
           </p>
-          <img src="img/about1.jpg" alt="" />
+          <img
+            src="img/about2.jpg"
+            alt=""
+            style={{ marginTop: "40px", marginBottom: "40px" }}
+          />
+        </div>
+      </div>
+      <div>
+        <div className="section-title text-center">
+          <h2>Commitment to Community: VUCFK Charity Work</h2>
+          <p className="paragraph-width">
+            Siva is an active member of V United Care for Kids (VUCFK), a
+            Canadian charity dedicated to supporting families in Sri Lanka. As
+            part of VUCFK's mission to create a socially and economically strong
+            society through education, Siva passionately contributes to
+            initiatives aimed at transforming lives and shaping a brighter
+            future for generations to come. Through his involvement with VUCFK,
+            Siva strives to make a meaningful impact on child education,
+            ensuring that every child has access to quality learning
+            opportunities, regardless of their socio-economic background.
+          </p>
+          <img src="img/vcare.png" alt="" style={{ marginTop: "40px" }} />
         </div>
       </div>
     </div>
