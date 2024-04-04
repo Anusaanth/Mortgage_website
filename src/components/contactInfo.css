@@ -1,0 +1,37 @@
+.contact-info-card {
+  width: 50%; /* Adjust as needed */
+  margin: 0 auto; /* Center horizontally */
+  background-color: #fff; /* Change as needed */
+  border: 1px solid #000; /* Black border */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add shadow */
+  padding: 20px;
+}
+
+.contact-info-container {
+  display: flex;
+  align-items: center;
+}
+
+.contact-info-image {
+  width: 25%; /* Adjust image size as needed */
+  border-radius: 10px; /* Make the image round */
+  margin-left: 20%; /* Push image to the right */
+}
+
+.contact-info-details {
+  width: 50%;
+  padding: 0 100px;
+}
+
+.contact-info-details h1 {
+  color: #000;
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.contact-info-details p {
+  color: #000;
+  font-size: 18px;
+  margin-bottom: 5px;
+}

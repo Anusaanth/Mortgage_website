@@ -1,6 +1,8 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
 import React from "react";
+import { Product } from "./Product";
+import { Contactinfo } from "./contactInfo";
 
 const initialState = {
   name: "",

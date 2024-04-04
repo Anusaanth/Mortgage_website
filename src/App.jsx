@@ -10,6 +10,7 @@ import { Gallery } from "./components/gallery";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
+import { Contactinfo } from "./components/contactInfo";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
@@ -68,7 +69,12 @@ const App = () => {
           />
           <Route
             path="/contact"
-            element={<Contact data={landingPageData.Contact} />}
+            element={
+              <>
+                <Contactinfo />
+                <Contact data={landingPageData.Contact} />
+              </>
+            }
           />
         </Routes>
       </div>

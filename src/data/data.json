@@ -1,132 +1,132 @@
 {
   "Header": {
-    "title": "Your Personal Mortgage Advocate for Simple Refinancing",
+    "title": "EXPERIENCE THE DIFFERENCE WITH YOUR PERSONAL MORTGAGE ADVOCATE",
     "paragraph": "Trusted Guidance for Your Mortgage Needs"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "With over 27 years of experience in the mortgage industry, Siva is a seasoned professional dedicated to providing exceptional service. As a multiple recipient of the Producer of the Year award, Siva has extensive experience in various types of mortgages, including first mortgages, refinancing, private loans, secured options, and unsecured options. Clients can trust Siva to navigate the complexities of conventional, fixed-rate, and adjustable-rate loans with confidence and precision.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Experience and Expertise",
+      "Award-Winning Service",
+      "Versatile Mortgage Solutions",
+      "Personalized Approach"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Trusted Advisor",
+      "Exceptional Results",
+      "Proven Track Record",
+      "Client-Centered Focus"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "",
+      "largeImage": "img/siva/siva1.png",
+      "smallImage": "img/siva/siva1-small.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "",
+      "largeImage": "img/siva/siva2.jpg",
+      "smallImage": "img/siva/siva2-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "",
+      "largeImage": "img/siva/siva3.JPG",
+      "smallImage": "img/siva/siva3-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "",
+      "largeImage": "img/siva/siva4.jpg",
+      "smallImage": "img/siva/siva4-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "",
+      "largeImage": "img/siva/siva5.jpg",
+      "smallImage": "img/siva/siva5-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "",
+      "largeImage": "img/siva/siva7.jpg",
+      "smallImage": "img/siva/siva7-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "",
+      "largeImage": "img/siva/siva8.jpg",
+      "smallImage": "img/siva/siva8-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "",
+      "largeImage": "img/siva/siva9.jpg",
+      "smallImage": "img/siva/siva9-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-thumbs-o-up",
+      "name": "Mortgage Pre-Approval",
+      "text": "Secure your dream home with confidence by obtaining a mortgage pre-approval through our streamlined process."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-lightbulb-o",
+      "name": "Refinancing Solutions",
+      "text": "Unlock the potential of your home equity and achieve your financial goals with our tailored refinancing solutions."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-home",
+      "name": "First-Time Homebuyer Assistance",
+      "text": "Navigate the complexities of purchasing your first home with ease and peace of mind with our dedicated support and guidance."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-credit-card",
+      "name": "Debt Consolidation Services",
+      "text": "Take control of your finances and simplify your monthly payments with our debt consolidation services tailored to your needs."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-exchange",
+      "name": "Renewal and Transfer Assistance",
+      "text": "Ensure you're getting the best possible terms on your mortgage renewal or transfer with our expert guidance and negotiation"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-usd",
+      "name": "Investment Property Financing",
+      "text": "Grow your real estate portfolio and maximize your investment potential with our specialized financing options for investment properties."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Working with Siva was a game-changer for us. His personalized approach and attention to detail made the mortgage process seamless and stress-free. We couldn't be happier with the outcome!\"",
+      "name": "John Smith"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Choosing Siva was one of the best decisions we made when buying our first home. His expertise and guidance helped us secure a fantastic mortgage rate, and his dedication to our needs was truly impressive.\"",
+      "name": "David and Emily Johnson"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"We can't thank Siva enough for his exceptional service. He went above and beyond to find us the perfect refinancing solution, and his communication throughout the process was outstanding. Highly recommended!\"",
+      "name": "Mark and Jessica Thompson"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"From start to finish, Siva provided us with top-notch support and expertise. His knowledge of the mortgage industry is unmatched, and he made sure we understood every step of the process. Thank you for helping us achieve our homeownership dreams!\"",
+      "name": "Michael and Rachel Brown"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"We were blown away by the level of service we received from Siva. His professionalism and commitment to finding us the best possible mortgage terms were evident from day one. We couldn't be happier with the results!\"",
+      "name": "James and Lisa Miller"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Siva's dedication to his clients is truly exceptional. His ability to navigate complex financial situations is remarkable. If you're looking for a mortgage broker you can trust, look no further!\"",
+      "name": "Samantha White"
     }
   ],
   "Team": [
@@ -152,33 +152,48 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
+    "address": "85 Dynamic Dr, Toronto, ON M1V 4C9",
+    "phone": "416-520-1214",
+    "email": "siva.mtg@gmail.com",
+    "facebook": "https://www.facebook.com/",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
+  "product": {
+    "title": "React landing page 2021",
+    "items": [
+      {
+        "title": "A plug n play template",
+        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Make it your own!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa fa-group",
+      "title": "Client-Centered Service:",
+      "text": "Experience client-centered service that prioritizes your goals and ensures a smooth refinancing process from start to finish."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Personalized Expertise",
+      "text": "Benefit from personalized expertise as our dedicated mortgage broker tailors solutions to fit your unique financial needs and aspirations."
+    },
+    {
+      "icon": "fa fa-check",
+      "title": "Proven Track Record",
+      "text": "Rely on our individual broker's proven track record of success, backed by a history of satisfied clients and successful refinancing outcomes."
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Direct Communication",
+      "text": "Enjoy direct communication and a personalized touch with our individual broker, fostering trust and transparency throughout your refinancing journey."
     }
   ]
 }

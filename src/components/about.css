@@ -1,3 +1,4 @@
-.custom-height {
-  height: 500px;
+.paragraph-width {
+  max-width: 800px; /* Adjust this value according to your layout */
+  margin: 0 auto; /* Center the paragraph horizontally */
 }
