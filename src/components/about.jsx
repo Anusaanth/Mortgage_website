@@ -60,7 +60,7 @@ export const About = (props) => {
             awards.
           </p>
           <img
-            src="img/about2.jpg"
+            src="img/old.jpg"
             alt=""
             style={{ marginTop: "40px", marginBottom: "40px" }}
           />
