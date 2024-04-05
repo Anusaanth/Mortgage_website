@@ -31,8 +31,8 @@
     },
     {
       "title": "",
-      "largeImage": "img/siva/siva3.JPG",
-      "smallImage": "img/siva/siva3-small.jpg"
+      "largeImage": "img/siva/siva12.jpg",
+      "smallImage": "img/siva/siva12-small.jpg"
     },
     {
       "title": "",
@@ -51,8 +51,23 @@
     },
     {
       "title": "",
-      "largeImage": "img/siva/siva7.jpg",
-      "smallImage": "img/siva/siva7-small.jpg"
+      "largeImage": "img/siva/siva3.JPG",
+      "smallImage": "img/siva/siva3-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/siva/siva11.jpg",
+      "smallImage": "img/siva/siva11-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/siva/siva9.jpg",
+      "smallImage": "img/siva/siva9-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/siva/siva10.jpg",
+      "smallImage": "img/siva/siva10-small.jpg"
     },
     {
       "title": "",
@@ -61,8 +76,8 @@
     },
     {
       "title": "",
-      "largeImage": "img/siva/siva9.jpg",
-      "smallImage": "img/siva/siva9-small.jpg"
+      "largeImage": "img/siva/siva7.jpg",
+      "smallImage": "img/siva/siva7-small.jpg"
     }
   ],
   "Services": [
